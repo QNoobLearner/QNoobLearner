@@ -5,7 +5,7 @@ I'm a Master of Quantitative Finance student at University of Technology Sydney,
 ## What I work on
 - **Derivatives & pricing** — options models, Monte Carlo simulation
 - **Portfolio construction** — mean-variance optimisation, factor models
-- **Risk modelling** — VaR, CVaR, stress testing
+- **Risk modelling** — VaR, ES, stress testing
 - **Quantitative strategies** — backtesting, signal research
   
 ## Tools & languages
