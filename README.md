@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Nam 👋
 
-<!--
-**QNoobLearner/QNoobLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master of Quantitative Finance student at University of Technology Sydney, interested in derivatives pricing, portfolio construction, and data-driven approaches to risk and return.
 
-Here are some ideas to get you started:
+## What I work on
+- **Derivatives & pricing** — options models, Monte Carlo simulation
+- **Portfolio construction** — mean-variance optimisation, factor models
+- **Risk modelling** — VaR, CVaR, stress testing
+- **Quantitative strategies** — backtesting, signal research
+  
+## Tools & languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Libraries:** numpy · pandas · scipy · statsmodels · matplotlib · numba
+
+## Currently building
+- An options pricing library comparing Black-Scholes vs Monte Carlo methods
+- A portfolio optimiser with efficient frontier visualisation
+
+## Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namnguyenhai/)
+📧 nam.nghnam@gmail.com
