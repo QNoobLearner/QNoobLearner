@@ -53,4 +53,6 @@ stochastic processes, and programming to move into a more analytical role.
  
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nam.nghnam@gmail.com)
  
-![CPA Australia](https://img.shields.io/badge/CPA_Australia-003087?style=flat&logoColor=white)
+[![CPA Australia](https://img.shields.io/badge/CPA_Australia-003087?style=flat&logoColor=white)](https://apps.cpaaustralia.com.au/member-verification/)
+&nbsp;
+<sub>Verify: First name **Hai** · Last name **Nguyen** · Member no. **10739415**</sub>
