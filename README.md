@@ -40,14 +40,6 @@ stochastic processes, and programming to move into a more analytical role.
 
 ---
 
-## Currently building
-
-- Options pricing library — comparing Black-Scholes vs Monte Carlo convergence
-- Portfolio optimiser with mean-variance framework and efficient frontier visualisation
-- Backtesting engine for momentum and pairs trading strategies
-
----
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/namnguyenhai)
