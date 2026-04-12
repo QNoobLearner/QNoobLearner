@@ -7,6 +7,7 @@ now building expertise in derivatives pricing, risk modelling, and data-driven f
 Open to quant internships and graduate roles in Sydney.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolfram&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-%23013243?style=flat&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white)
