@@ -44,6 +44,8 @@ stochastic processes, and programming to move into a more analytical role.
 
 ## Let's connect
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://qnooblearner.github.io/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/namnguyenhai)
  
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nam.nghnam@gmail.com)
