@@ -7,8 +7,9 @@ now building expertise in derivatives pricing, risk modelling, and data-driven f
 Open to quant internships and graduate roles in Sydney.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolfram&logoColor=white)
+![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat&logo=wolfram&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-%23013243?style=flat&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white)
 ![scipy](https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white)
@@ -21,10 +22,11 @@ Open to quant internships and graduate roles in Sydney.
 
 | | |
 |---|---|
-| **Derivatives & pricing** | Black-Scholes, Monte Carlo simulation, binomial trees, GBM, stochastic processes |
-| **Portfolio construction** | 	Mean-variance optimisation, Sharpe ratio, efficient frontier, factor models |
-| **Risk modelling** | VaR, CVaR, Expected Shortfall, stress testing, tail risk |
-| **Quant strategies** | Backtesting, momentum, pairs trading, time series, ML signals |
+| **Derivatives & pricing** | Black-Scholes, Monte Carlo simulation, option pricing, GBM, stochastic processes |
+| **Risk Management & Modelling** | Value at Risk (VaR), Expected Shortfall (CVaR), copula models, stress testing, tail risk, scenario analysis |
+| **Fixed Income Analytics** | 	Yield curve bootstrapping, zero‑coupon curves, bond valuation, duration & convexity, liability hedging |
+| **Portfolio construction** | 	Mean–variance optimisation, efficient frontier, factor models, portfolio risk attribution |
+| **Quantitative Trading & Strategies** | Backtesting, dynamic hedging, time series, risk‑adjusted performance evaluation |
 
 ---
 
